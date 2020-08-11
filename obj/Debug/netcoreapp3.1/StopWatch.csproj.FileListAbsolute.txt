@@ -1,0 +1,12 @@
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.deps.json
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.runtimeconfig.json
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.runtimeconfig.dev.json
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.dll
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.pdb
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.csprojAssemblyReference.cache
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.AssemblyInfoInputs.cache
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.AssemblyInfo.cs
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.csproj.CoreCompileInputs.cache
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.dll
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.pdb
+/Users/beatrizgoncalves/Documents/Estudo/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.genruntimeconfig.cache
